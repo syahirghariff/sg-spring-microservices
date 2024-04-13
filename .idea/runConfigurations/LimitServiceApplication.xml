@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LimitServiceApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.syahirg.microservices.limitsservice.LimitsServiceApplication" />
+    <module name="limits-service" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
